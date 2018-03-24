@@ -1,0 +1,89 @@
+#header nav
+menu:
+  home: /
+  archives: archives
+  categories: categories  
+  tags: tags
+  about: about
+  search: search
+
+# site color [black blue brown purple red green]
+color: black  
+
+#site title
+title: Godsenal's Blog
+
+#author profile
+profile: 
+  logo: Godsenal's Blog
+  avatar: /img/henry.jpg
+  author: godsenal
+  location: South Korea
+
+#site favicon
+favicon: /img/favicon.png
+
+search:
+  path: search.xml
+  field: post
+
+#social link
+social:  
+  github: https://github.com/Godsenal
+
+
+# toc
+toc:
+    true
+
+# code highlight style
+# normal | night | white
+highlight_theme: 
+    normal
+
+# website analytics 
+baidu_analytics:
+google_analytics: 
+
+# busuanzi site count
+busuanzi:
+  false
+
+# valine comment
+leancloud:  
+  comment: false
+  app_id: 
+  app_key:
+
+disqus: 
+  comment: true
+  shortname: godsenal
+
+#mob share
+mob_share:
+  enable: false
+  app_key: 21d601593a1de
+
+share_item:
+- qq
+- weixin
+- weibo
+- douban
+- facebook
+- twitter
+- tumblr
+- google
+
+#post donate
+donate:
+  enable: false
+  word: 世界美好 你也是
+  wechat: /img/donate1.png
+  alipay: /img/donate2.png
+
+
+#theme version
+version:
+  1.0
+
+#山水一程 三生有幸
